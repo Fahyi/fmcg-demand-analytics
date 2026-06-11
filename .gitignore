@@ -1,0 +1,17 @@
+# Databricks / Python
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Data files
+*.csv
+*.parquet
+*.delta
+*.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local outputs
+outputs/
